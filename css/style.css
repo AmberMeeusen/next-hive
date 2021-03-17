@@ -2,21 +2,19 @@
 .title {
 	font-family: ABeeZee;
 	text-align: center;
-	border-bottom: 2px dotted #7a77b9;
 	padding: 0.5em;
-	font-size: 20px;
+	font-size: 30px;
 }
 .subtext {
 	font-family: comfortaa;
 	text-align: center;
-	border-bottom: 2px dotted #7a77b9;
 	padding: 0.5em;
-	font-size: 15px;
+	font-size: 20px;
 }
 .first {
 	text-align: left;
 	font-family: comfortaa;
-	font-size: 15px;
+	font-size: 20px;
 }
 .flower {
 	font-family: comfortaa;
