@@ -1,7 +1,13 @@
 @charset "utf-8";
-*{margin: 0; padding: 0; border: 0; font-size: 100%;}
+*{margin: 350; padding: 0; border: 0; font-size: 100%;}
 #background {
 	background-color: #61c3be;
+}
+body, html {
+margin-left:350px;
+margin-right:350px;
+margin-bottom:350px;
+margin-top:350px;
 }
 .title {
 	font-family: abeezee;
@@ -25,8 +31,6 @@
 	text-align: center;
 	background-color: white;
 	font-size: 20px;
-	margin-left: 345px;
-	margin-right: 345px;
 }
 .jumbotron {
 	font-family: abeezee;
