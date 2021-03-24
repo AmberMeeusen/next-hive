@@ -1,5 +1,8 @@
 @charset "utf-8";
 *{margin: 0; padding: 0; border: 0; font-size: 100%;}
+#background {
+	background-color: #ebe8e7;
+}
 .title {
 	font-family: ABeeZee;
 	text-align: center;
