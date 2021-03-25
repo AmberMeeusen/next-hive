@@ -70,6 +70,8 @@ h5 {
 	padding: 0.5em;
 	font-size: 30px;
 	text-align: center;
+	margin-left:150px;
+	margin-right:150px;
 }
 .end {
 	text-align: right;
@@ -160,7 +162,10 @@ h5 {
 	.jumbotron {
 		font-family: comfortaa;
 		padding: 0.5em;
-		font-size: 25px
+		font-size: 25px;
+		text-align: center;
+		margin-left:10px;
+		margin-right:10px;
 	}
 	.end {
 		text-align: right;
