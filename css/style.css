@@ -1,8 +1,6 @@
 @charset "utf-8";
 *{margin: 0; padding: 0; border: 0; font-size: 100%;}
-#background {
-	background-color: #61c3be;
-}
+
 .title {
 	font-family: comfortaa;
 	text-align: center;
@@ -43,4 +41,50 @@
 .navbar {
 	background-color: #ff8302; 
 	width: 100%;
+}
+
+@media screen and (max-width: 1400px) {
+	.title {
+		font-family: comfortaa;
+		text-align: center;
+		padding: 0.5em;
+		font-size: 25px;
+	}
+	.subtext {
+		font-family: comfortaa;
+		text-align: center;
+		padding: 0.5em;
+		font-size: 20px;
+	}
+	.first {
+		text-align: left;
+		font-family: comfortaa;
+		font-size: 15px;
+	}
+	.box {
+		font-family: comfortaa;
+		text-align: center;
+		background-color: white;
+		font-size: 15px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.jumbotron {
+		font-family: comfortaa;
+		padding: 0.5em;
+		font-size: 25px
+	}
+	.end {
+		text-align: right;
+		font-family: comfortaa;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.navbar {
+		background-color: #ff8302; 
+		width: 100%;
+	}
+}
+#background {
+	background-color: #61c3be;
 }
