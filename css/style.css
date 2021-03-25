@@ -48,6 +48,14 @@
 	background-color: #ff8302; 
 	width: 100%;
 }
+.btn {
+	font-family: comfortaa;
+	text-align: center;
+	background-color: #88e2ca!important;
+	font-size: 20px;
+	color: white!important;
+	border-color:#61c3be!important; 
+}
 
 @media screen and (max-width: 1400px) {
 	.title {
@@ -63,10 +71,10 @@
 		font-size: 20px;
 	}
 	.endtext {
-	font-family: comfortaa;
-	text-align: center;
-	padding: 0.5em;
-	font-size: 10px;
+		font-family: comfortaa;
+		text-align: center;
+		padding: 0.5em;
+		font-size: 10px;
 }
 	.first {
 		text-align: left;
