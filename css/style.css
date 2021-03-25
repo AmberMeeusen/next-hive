@@ -20,15 +20,8 @@
 	padding: 0.5em;
 	font-size: 25px;
 }
-
-container-green {
-	border-style:solid!important; 
-	border-color: #88e2ca!important;
-	margin-left: 10px!important;
-	margin-right: 10px!important;
-}
-container-orange  {
-	border-style:solid!important; 
+.container {
+	border-style:dotted!important; 
 	border-color: #f8b21e!important;
 	margin-left: 10px!important;
 	margin-right: 10px!important;
@@ -117,13 +110,7 @@ h5 {
 		padding: 0.5em;
 		font-size: 20px;
 	}
-	.container-green {
-		border-style: solid; 
-		border-color: #88e2ca;
-		margin-left: 10px;
-		margin-right: 10px;
-	}
-	.container-orange  {
+	.container  {
 		border-style:solid; 
 		border-color: #f8b21e;
 		margin-left: 10px;
