@@ -13,6 +13,12 @@
 	padding: 0.5em;
 	font-size: 25px;
 }
+.endtext {
+	font-family: comfortaa;
+	text-align: center;
+	padding: 0.5em;
+	font-size: 15px;
+}
 .first {
 	text-align: left;
 	font-family: comfortaa;
@@ -56,6 +62,12 @@
 		padding: 0.5em;
 		font-size: 20px;
 	}
+	.endtext {
+	font-family: comfortaa;
+	text-align: center;
+	padding: 0.5em;
+	font-size: 10px;
+}
 	.first {
 		text-align: left;
 		font-family: comfortaa;
