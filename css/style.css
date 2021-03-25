@@ -5,7 +5,6 @@
 }
 .title {
 	font-family: comfortaa;
-	font-weight: bolder;
 	text-align: center;
 	padding: 0.5em;
 	font-size: 30px;
@@ -14,7 +13,7 @@
 	font-family: comfortaa;
 	text-align: center;
 	padding: 0.5em;
-	font-size: 20px;
+	font-size: 25px;
 }
 .first {
 	text-align: left;
@@ -31,9 +30,8 @@
 }
 .jumbotron {
 	font-family: comfortaa;
-	font-weight: bolder;
 	padding: 0.5em;
-	font-size: 20px
+	font-size: 30px
 }
 .end {
 	text-align: right;
@@ -41,4 +39,8 @@
 	margin-left: 200px;
 	margin-right: 200px;
 	font-size: 20px;
+}
+.navbar {
+	background-color: #ff8302; 
+	width: 100%;
 }
