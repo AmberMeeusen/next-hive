@@ -23,8 +23,8 @@
 	text-align: center;
 	background-color: white;
 	font-size: 20px;
-	margin-left:350px;
-	margin-right:350px;
+	margin-left:150px;
+	margin-right:150px;
 }
 .jumbotron {
 	font-family: comfortaa;
@@ -34,8 +34,8 @@
 .end {
 	text-align: right;
 	font-family: comfortaa;
-	margin-left: 200px;
-	margin-right: 200px;
+	margin-left: 150px;
+	margin-right: 150px;
 	font-size: 20px;
 }
 .navbar {
