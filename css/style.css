@@ -3,11 +3,6 @@
 #background {
 	background-color: #61c3be;
 }
-body, html {
-margin-left:350px;
-margin-right:350px;
-margin-top: 50px;
-}
 .title {
 	font-family: abeezee;
 	text-align: center;
@@ -30,6 +25,8 @@ margin-top: 50px;
 	text-align: center;
 	background-color: white;
 	font-size: 20px;
+	margin-left:350px;
+	margin-right:350px;
 }
 .jumbotron {
 	font-family: abeezee;
