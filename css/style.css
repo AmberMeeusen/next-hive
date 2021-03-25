@@ -20,6 +20,38 @@
 	padding: 0.5em;
 	font-size: 25px;
 }
+.subtitle {
+	font-family: comfortaa;
+	text-align: center;
+	padding: 0.5em;
+	font-size: 20px;
+}
+.container-green {
+	border-width: thick; 
+	border-color: #88e2ca;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.container-orange  {
+	border-width: thick;
+	border-color: #f8b21e;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+h4 {
+	float: left;
+	font-family: comfortaa;
+	text-align: left;
+	padding: 0.5em;
+	font-size: 15px;
+}
+h5 {
+	float: right;
+	font-family: comfortaa;
+	text-align: left;
+	padding: 0.5em;
+	font-size: 15px;
+}
 .endtext {
 	font-family: comfortaa;
 	text-align: center;
@@ -71,18 +103,58 @@
 		padding: 0.5em;
 		font-size: 25px;
 	}
+	.colortitle {
+		font-family: comfortaa;
+		text-align: center;
+		color:#ff8302;
+		padding: 0.5em;
+		font-size: 30px;
+	}
 	.subtext {
 		font-family: comfortaa;
 		text-align: center;
 		padding: 0.5em;
 		font-size: 20px;
 	}
-	.endtext {
+	.subtitle {
+		font-family: comfortaa;
+		text-align: center;
+		padding: 0.5em;
+		font-size: 20px;
+	}
+	.container-green {
+		border-width: thick; 
+		border-color: #88e2ca;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.container-orange  {
+		border-width: thick;
+		border-color: #f8b21e;
+		margin-left: 10px;
+		margin-right: 10px;
+
+	}
+	h4 {
+		float: left;
+		font-family: comfortaa;
+		text-align: left;
+		padding: 0.5em;
+		font-size: 10px;
+	}
+	h5 {
+		float: right;
+		font-family: comfortaa;
+		text-align: left;
+		padding: 0.5em;
+		font-size: 10px;
+	}
+		.endtext {
 		font-family: comfortaa;
 		text-align: center;
 		padding: 0.5em;
 		font-size: 10px;
-}
+	}
 	.first {
 		text-align: left;
 		font-family: comfortaa;
@@ -110,6 +182,14 @@
 	.navbar {
 		background-color: #ff8302; 
 		width: 100%;
+	}
+	.btn {
+		font-family: comfortaa;
+		text-align: center;
+		background-color: #88e2ca!important;
+		font-size: 20px;
+		color: white!important;
+		border-color:#61c3be!important; 
 	}
 }
 #background {
