@@ -259,14 +259,14 @@ h5 {
 		font-size: 35px!important;
 	}
 	h4 {
-		float: left!important;
+		float: center!important;
 		font-family: 'Comfortaa', cursive!important;
-		text-align: left!important;
+		text-align: center!important;
 		padding: 0.5em;
 		font-size: 15px!important;
 	}
 	h5 {
-		float: left;
+		float: center;
 		font-family: 'Averia Serif Libre', cursive!important;
 		text-align: left;
 		padding: 0.5em;
@@ -276,7 +276,7 @@ h5 {
 		font-family: 'Comfortaa', cursive;
 		color: black;
 		text-align: center;
-		font-size: 10px;
+		font-size: 10px!important;
 		background-color: white;
 		border: 5px solid #ff8302;
 		margin-left:150px;
@@ -291,7 +291,7 @@ h5 {
 		color: white;
 		text-align: center;
 		float: center;
-		font-size: 30px;
+		font-size: 25px!important;
 		background-color: #ff8302;
 		border: 5px solid white;
 		margin-left:150px;
