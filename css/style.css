@@ -136,7 +136,7 @@ h5 {
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
 		padding: 0.5em;
-		font-size: 25px;
+		font-size: 25px!important;
 	}
 	.container  {
 		border-style:solid; 
@@ -180,7 +180,7 @@ h5 {
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
 		background-color: white;
-		font-size: 15px;
+		font-size: 25px;
 		margin-left: 20px;
 		margin-right: 20px;
 	}
