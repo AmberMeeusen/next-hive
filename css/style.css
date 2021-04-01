@@ -106,7 +106,6 @@ h5 {
 	font-family: 'Averia Serif Libre', cursive;
 	color: white!important;
 	text-align: center;
-	float: center;
 	font-size: 40px;
 	background-color: #ff8302;
 	border: 5px solid white;
@@ -159,7 +158,6 @@ h5 {
 		font-size: 25px!important;
 	}
 	h5 {
-		float: lef;
 		font-family: 'Averia Serif Libre', cursive!important;
 		text-align: left;
 		padding: 0.5em;
@@ -236,7 +234,6 @@ h5 {
 		font-family: 'Averia Serif Libre', cursive;
 		color: white;
 		text-align: center;
-		float: center;
 		font-size: 25px;
 		background-color: #ff8302;
 		border: 5px solid white;
