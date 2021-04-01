@@ -2,13 +2,13 @@
 *{margin: 0; padding: 0; border: 0; font-size: 100%;}
 
 .title {
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Averia Serif Libre', cursive;
 	text-align: center;
 	padding: 0.5em;
-	font-size: 30px;
+	font-size: 40px;
 }
 .colortitle {
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Averia Serif Libre', cursive;
 	text-align: center;
 	float: center;
 	color:#ff8302;
@@ -110,17 +110,17 @@ h5 {
 
 @media screen and (max-width: 1400px) {
 	.title {
-		font-family: 'Comfortaa', cursive;
+		font-family: 'Averia Serif Libre', cursive;
 		text-align: center;
 		padding: 0.5em;
-		font-size: 25px;
+		font-size: 35px;
 	}
 	.colortitle {
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
 		color:#ff8302;
 		padding: 0.5em;
-		font-size: 20px;
+		font-size: 50px;
 	}
 	.subtext {
 		font-family: 'Comfortaa', cursive;
