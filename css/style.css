@@ -79,12 +79,15 @@ h5 {
 .navbar {
 	background-color: #ff8302; 
 	width: 100%;
-	font-family: 'Comfortaa', cursive;
-	color: black;
+	font-family: 'Averia Serif Libre', cursive;
+	font-size: 40px!important;
+	color:black!important;
 }
 .nav-link {
-		font-size: 20px!important;		
-	}
+	font-family: 'Averia Serif Libre', cursive;
+	font-size: 40px!important;
+	color:black!important;
+}	
 .btn {
 	font-family: 'Comfortaa', cursive;
 	text-align: center;
@@ -191,11 +194,14 @@ h5 {
 	.navbar {
 		background-color: #ff8302; 
 		width: 100%;
-		font-family: 'Comfortaa', cursive;
-		color: black;
+		font-family: 'Averia Serif Libre', cursive;
+		font-size: 30px!important;
+		color: black!important;
 	}
 	.nav-link {
-		font-size: 20px!important;		
+		font-family: 'Averia Serif Libre', cursive;
+		font-size: 40px!important;
+		color:black!important;		
 	}
 	.btn {
 		font-family: 'Comfortaa', cursive;
