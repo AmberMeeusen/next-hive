@@ -21,16 +21,16 @@ h3 {
 	font-size: 45px!important;
 }
 h4 {
-	float: center!important;
+	float: left!important;
 	font-family: 'Comfortaa', cursive!important;
-	text-align: center!important;
+	text-align: left!important;
 	padding: 0.5em;
 	font-size: 25px!important;
 }
 h5 {
-	float: center;
+	float: left;
 	font-family: 'Averia Serif Libre', cursive!important;
-	text-align: center;
+	text-align: left;
 	padding: 0.5em;
 	font-size: 30px!important;
 }
@@ -152,16 +152,16 @@ h5 {
 		font-size: 25px!important;
 	}
 	h4 {
-		float: center!important;
+		float: left!important;
 		font-family: 'Comfortaa', cursive!important;
-		text-align: center!important;
+		text-align: left!important;
 		padding: 0.5em;
 		font-size: 15px!important;
 	}
 	h5 {
-		float: center;
+		float: lef;
 		font-family: 'Averia Serif Libre', cursive!important;
-		text-align: center;
+		text-align: left;
 		padding: 0.5em;
 		font-size: 25px!important;
 	}
