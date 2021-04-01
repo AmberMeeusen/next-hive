@@ -21,18 +21,18 @@ h3 {
 	font-size: 45px!important;
 }
 h4 {
-	float: center;
-	font-family: 'Comfortaa', cursive;
-	text-align: center;
+	float: center!important;
+	font-family: 'Comfortaa', cursive!important;
+	text-align: center!important;
 	padding: 0.5em;
-	font-size: 10px;
+	font-size: 25px!important;
 }
 h5 {
 	float: center;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'Averia Serif Libre', cursive!important;
 	text-align: center;
 	padding: 0.5em;
-	font-size: 10px;
+	font-size: 30px!important;
 }
 .endtext {
 	font-family: 'Comfortaa', cursive;
@@ -152,18 +152,18 @@ h5 {
 		font-size: 25px!important;
 	}
 	h4 {
-		float: left;
-		font-family: 'Comfortaa', cursive;
-		text-align: left;
+		float: center!important;
+		font-family: 'Comfortaa', cursive!important;
+		text-align: center!important;
 		padding: 0.5em;
-		font-size: 10px;
+		font-size: 15px!important;
 	}
 	h5 {
 		float: center;
-		font-family: 'Comfortaa', cursive;
+		font-family: 'Averia Serif Libre', cursive!important;
 		text-align: center;
 		padding: 0.5em;
-		font-size: 10px;
+		font-size: 25px!important;
 	}
 		.endtext {
 		font-family: 'Comfortaa', cursive;
