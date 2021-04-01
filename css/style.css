@@ -149,14 +149,14 @@ h5 {
 		font-family: 'Averia Serif Libre', cursive!important;
 		text-align: center!important;
 		padding: 0.5em;
-		font-size: 25px!important;
+		font-size: 30px!important;
 	}
 	h4 {
 		float: left!important;
 		font-family: 'Comfortaa', cursive!important;
 		text-align: left!important;
 		padding: 0.5em;
-		font-size: 15px!important;
+		font-size: 25px!important;
 	}
 	h5 {
 		float: lef;
@@ -174,7 +174,7 @@ h5 {
 	.first {
 		text-align: left;
 		font-family: 'Comfortaa', cursive;
-		font-size: 15px;
+		font-size: 20px;
 	}
 	.box {
 		font-family: 'Comfortaa', cursive;
