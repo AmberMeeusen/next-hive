@@ -122,20 +122,20 @@ h5 {
 		font-family: 'Averia Serif Libre', cursive;
 		text-align: center;
 		padding: 0.5em;
-		font-size: 35px;
+		font-size: 30px;
 	}
 	.colortitle {
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
 		color:#ff8302;
 		padding: 0.5em;
-		font-size: 50px;
+		font-size: 45px;
 	}
 	.subtext {
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
 		padding: 0.5em;
-		font-size: 25px!important;
+		font-size: 20px!important;
 	}
 	.container  {
 		border-style:solid; 
@@ -148,14 +148,14 @@ h5 {
 		font-family: 'Averia Serif Libre', cursive!important;
 		text-align: center!important;
 		padding: 0.5em;
-		font-size: 30px!important;
+		font-size: 25px!important;
 	}
 	h4 {
 		float: left!important;
 		font-family: 'Comfortaa', cursive!important;
 		text-align: left!important;
 		padding: 0.5em;
-		font-size: 25px!important;
+		font-size: 20px!important;
 	}
 	h5 {
 		font-family: 'Averia Serif Libre', cursive!important;
